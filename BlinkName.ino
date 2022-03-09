@@ -81,7 +81,6 @@ void morse_code(char c)
         case 'X': dash();dot();dot();dash();break;
         case 'Y': dash();dot();dash();dash();break;
         case 'Z': dash();dash();dot();dot();break;
-        case ' ': long_space();break;
         default: break;
     }
 }
