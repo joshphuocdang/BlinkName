@@ -8,7 +8,7 @@
 //space between words: 7 units (7s)
 
 //set pin D7 as LED output
-// #include <iostream>
+
 #include <string>
 #include <cctype>
 
